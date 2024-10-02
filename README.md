@@ -3,6 +3,7 @@
 **A bot designed to automate the posting of advertisements in various Telegram groups.**  
 This project, called "Telegram Controler," uses Telegram's API to send advertising messages with media files to specific groups.
 
+![BOT PREVIEW](https://github.com/rayan38000/Telegram-Controler/blob/main/Telegram%20Advertising%20Bot/example.png)
 ---
 
 ## ✨ Features
